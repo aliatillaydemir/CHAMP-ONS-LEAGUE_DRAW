@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1568916757 source:c:\users\pc\desktop\cl draw\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
